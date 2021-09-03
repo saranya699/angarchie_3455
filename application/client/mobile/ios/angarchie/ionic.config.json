@@ -1,0 +1,7 @@
+{
+  "name": "angarchie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
